@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ```bash
 python src/train.py \
-  --model_name distilbert-base-uncased \
+  --model_name microsoft/MiniLM-L12-H384-uncased \
   --train data/train.jsonl \
   --dev data/dev.jsonl \
   --out_dir out
