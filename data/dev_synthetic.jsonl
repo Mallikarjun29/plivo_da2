@@ -1,0 +1,200 @@
+{"id": "syn_1000", "text": "departure on 14 07 2021", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1001", "text": "card number 8829 4729 7083 4081", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1002", "text": "my card number is 9462 5729 0489 6113", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "syn_1003", "text": "i live in pune near indira nagar", "entities": [{"start": 10, "end": 14, "label": "CITY"}, {"start": 20, "end": 32, "label": "LOCATION"}]}
+{"id": "syn_1004", "text": "traveling on 21 04 2025", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1005", "text": "contact me at four four one one four four five seven seven two", "entities": [{"start": 14, "end": 62, "label": "PHONE"}]}
+{"id": "syn_1006", "text": "my name is arun khan", "entities": [{"start": 11, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "syn_1007", "text": "i will travel on 17 04 2023", "entities": [{"start": 17, "end": 27, "label": "DATE"}]}
+{"id": "syn_1008", "text": "i am meera kumar calling from surat", "entities": [{"start": 5, "end": 16, "label": "PERSON_NAME"}, {"start": 30, "end": 35, "label": "CITY"}]}
+{"id": "syn_1009", "text": "this is deepak iyer from mumbai", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 25, "end": 31, "label": "CITY"}]}
+{"id": "syn_1010", "text": "meeting on 31 06 2021 at airport", "entities": [{"start": 11, "end": 21, "label": "DATE"}, {"start": 25, "end": 32, "label": "LOCATION"}]}
+{"id": "syn_1011", "text": "my number is eight zero eight seven seven eight three four nine eight and email is suresh dot patel at gmail dot com", "entities": [{"start": 13, "end": 69, "label": "PHONE"}, {"start": 83, "end": 116, "label": "EMAIL"}]}
+{"id": "syn_1012", "text": "my card number is 7979 9923 3369 7916", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "syn_1013", "text": "traveling to hyderabad on 30 08 2025", "entities": [{"start": 13, "end": 22, "label": "CITY"}, {"start": 26, "end": 36, "label": "DATE"}]}
+{"id": "syn_1014", "text": "date of birth 05 08 2021", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "syn_1015", "text": "date of birth 05 11 2024", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "syn_1016", "text": "this is anita kumar from hyderabad", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 25, "end": 34, "label": "CITY"}]}
+{"id": "syn_1017", "text": "this is priya sharma from bangalore", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 26, "end": 35, "label": "CITY"}]}
+{"id": "syn_1018", "text": "email id is rahul dot iyer at gmail dot com", "entities": [{"start": 12, "end": 43, "label": "EMAIL"}]}
+{"id": "syn_1019", "text": "meeting on 16 05 2022 at marine drive", "entities": [{"start": 11, "end": 21, "label": "DATE"}, {"start": 25, "end": 37, "label": "LOCATION"}]}
+{"id": "syn_1020", "text": "schedule for 10 09 2023", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1021", "text": "i will travel on 27 01 2025", "entities": [{"start": 17, "end": 27, "label": "DATE"}]}
+{"id": "syn_1022", "text": "pay using card 6802 0255 3147 8083 expiry 09 01 2024", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}, {"start": 42, "end": 52, "label": "DATE"}]}
+{"id": "syn_1023", "text": "email id is vikram dot verma at outlook dot com", "entities": [{"start": 12, "end": 47, "label": "EMAIL"}]}
+{"id": "syn_1024", "text": "departure on 19 02 2025", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1025", "text": "i live in hyderabad near connaught place", "entities": [{"start": 10, "end": 19, "label": "CITY"}, {"start": 25, "end": 40, "label": "LOCATION"}]}
+{"id": "syn_1026", "text": "my card number is 2099 1361 2709 9152", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "syn_1027", "text": "my name is deepak khan", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "syn_1028", "text": "traveling on 01 12 2021", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1029", "text": "card number 1138 4901 5671 4148", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1030", "text": "my number is 0712455532 and email is arun dot malik at outlook dot com", "entities": [{"start": 13, "end": 23, "label": "PHONE"}, {"start": 37, "end": 70, "label": "EMAIL"}]}
+{"id": "syn_1031", "text": "date of birth 26 10 2025", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "syn_1032", "text": "date of birth 28 04 2022", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "syn_1033", "text": "schedule for 29 05 2023", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1034", "text": "my number is one five eight one nine eight seven three one three and email is anita dot gupta at example dot com", "entities": [{"start": 13, "end": 64, "label": "PHONE"}, {"start": 78, "end": 112, "label": "EMAIL"}]}
+{"id": "syn_1035", "text": "the card is 3134 2051 7317 3774", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1036", "text": "departure on 22 04 2021", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1037", "text": "traveling on 23 03 2022", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1038", "text": "traveling on 11 03 2024", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1039", "text": "credit card is 7077 1458 8966 7738", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "syn_1040", "text": "the card is 1887 1112 9520 0372", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1041", "text": "card number 7691 6526 7642 1410", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1042", "text": "contact me at four one five eight one seven one seven eight seven", "entities": [{"start": 14, "end": 65, "label": "PHONE"}]}
+{"id": "syn_1043", "text": "schedule for 05 04 2021", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1044", "text": "the card is 1806 7948 7907 9057", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1045", "text": "credit card is 7457 8675 9777 6634", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "syn_1046", "text": "please charge my card 8596 7261 0990 2735", "entities": [{"start": 22, "end": 41, "label": "CREDIT_CARD"}]}
+{"id": "syn_1047", "text": "traveling on 12 04 2020", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1048", "text": "my number is 0910402750 and email is sneha dot nair at gmail dot com", "entities": [{"start": 13, "end": 23, "label": "PHONE"}, {"start": 37, "end": 68, "label": "EMAIL"}]}
+{"id": "syn_1049", "text": "this is vikram verma from chennai", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 26, "end": 33, "label": "CITY"}]}
+{"id": "syn_1050", "text": "pay using card 4261 2849 3490 1432 expiry 05 03 2025", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}, {"start": 42, "end": 52, "label": "DATE"}]}
+{"id": "syn_1051", "text": "my phone is 5066370600", "entities": [{"start": 12, "end": 22, "label": "PHONE"}]}
+{"id": "syn_1052", "text": "my phone is 5854938284", "entities": [{"start": 12, "end": 22, "label": "PHONE"}]}
+{"id": "syn_1053", "text": "my card number is 4259 2227 4175 0885", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "syn_1054", "text": "send details to doe dot reddy at example dot com", "entities": [{"start": 16, "end": 48, "label": "EMAIL"}]}
+{"id": "syn_1055", "text": "i am sneha kumar calling from chennai", "entities": [{"start": 5, "end": 16, "label": "PERSON_NAME"}, {"start": 30, "end": 37, "label": "CITY"}]}
+{"id": "syn_1056", "text": "my name is arun singh", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "syn_1057", "text": "schedule for 22 08 2020", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1058", "text": "pay using card 4653 6245 4592 6347 expiry 20 03 2023", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}, {"start": 42, "end": 52, "label": "DATE"}]}
+{"id": "syn_1059", "text": "email id is doe dot rao at gmail dot com", "entities": [{"start": 12, "end": 40, "label": "EMAIL"}]}
+{"id": "syn_1060", "text": "email id is anita dot nair at hotmail dot com", "entities": [{"start": 12, "end": 45, "label": "EMAIL"}]}
+{"id": "syn_1061", "text": "the card is 6456 0053 2818 7697", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1062", "text": "i live in pune near indira nagar", "entities": [{"start": 10, "end": 14, "label": "CITY"}, {"start": 20, "end": 32, "label": "LOCATION"}]}
+{"id": "syn_1063", "text": "email id is ramesh dot nair at example dot com", "entities": [{"start": 12, "end": 46, "label": "EMAIL"}]}
+{"id": "syn_1064", "text": "contact me at 5428923589", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "syn_1065", "text": "my phone is 6873818365", "entities": [{"start": 12, "end": 22, "label": "PHONE"}]}
+{"id": "syn_1066", "text": "meeting on 18 09 2025 at marine drive", "entities": [{"start": 11, "end": 21, "label": "DATE"}, {"start": 25, "end": 37, "label": "LOCATION"}]}
+{"id": "syn_1067", "text": "contact me at zero eight one zero two six eight eight five five", "entities": [{"start": 14, "end": 63, "label": "PHONE"}]}
+{"id": "syn_1068", "text": "this is meera kumar from delhi", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 25, "end": 30, "label": "CITY"}]}
+{"id": "syn_1069", "text": "the card is 5722 6025 0758 7837", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1070", "text": "date of birth 05 09 2025", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "syn_1071", "text": "traveling to pune on 22 09 2024", "entities": [{"start": 13, "end": 17, "label": "CITY"}, {"start": 21, "end": 31, "label": "DATE"}]}
+{"id": "syn_1072", "text": "departure on 31 01 2023", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1073", "text": "my card number is 7182 2644 3287 8720", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "syn_1074", "text": "the card is 0418 3446 1338 2466", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1075", "text": "i am suresh nair calling from chennai", "entities": [{"start": 5, "end": 16, "label": "PERSON_NAME"}, {"start": 30, "end": 37, "label": "CITY"}]}
+{"id": "syn_1076", "text": "please charge my card 1806 7492 2516 7665", "entities": [{"start": 22, "end": 41, "label": "CREDIT_CARD"}]}
+{"id": "syn_1077", "text": "traveling to bangalore on 26 07 2024", "entities": [{"start": 13, "end": 22, "label": "CITY"}, {"start": 26, "end": 36, "label": "DATE"}]}
+{"id": "syn_1078", "text": "meeting on 27 06 2025 at central station", "entities": [{"start": 11, "end": 21, "label": "DATE"}, {"start": 25, "end": 40, "label": "LOCATION"}]}
+{"id": "syn_1079", "text": "i live in jaipur near whitefield", "entities": [{"start": 10, "end": 16, "label": "CITY"}, {"start": 22, "end": 32, "label": "LOCATION"}]}
+{"id": "syn_1080", "text": "contact me at five seven eight four zero one eight four zero five", "entities": [{"start": 14, "end": 65, "label": "PHONE"}]}
+{"id": "syn_1081", "text": "card number 1565 8209 7665 0525", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1082", "text": "my number is nine three four one seven seven eight one eight zero and email is anita dot sharma at outlook dot com", "entities": [{"start": 13, "end": 65, "label": "PHONE"}, {"start": 79, "end": 114, "label": "EMAIL"}]}
+{"id": "syn_1083", "text": "card number 7160 0502 7146 1359", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1084", "text": "traveling on 20 03 2024", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1085", "text": "i live in bangalore near marine drive", "entities": [{"start": 10, "end": 19, "label": "CITY"}, {"start": 25, "end": 37, "label": "LOCATION"}]}
+{"id": "syn_1086", "text": "my phone is 3859985899", "entities": [{"start": 12, "end": 22, "label": "PHONE"}]}
+{"id": "syn_1087", "text": "contact me at 9287052984", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "syn_1088", "text": "the card is 0871 1016 1039 9643", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1089", "text": "schedule for 24 01 2022", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1090", "text": "email id is john dot sharma at example dot com", "entities": [{"start": 12, "end": 46, "label": "EMAIL"}]}
+{"id": "syn_1091", "text": "traveling on 04 06 2021", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1092", "text": "my card number is 7123 2553 6876 0231", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "syn_1093", "text": "traveling on 09 09 2022", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1094", "text": "date of birth 14 01 2023", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "syn_1095", "text": "i am rahul reddy calling from jaipur", "entities": [{"start": 5, "end": 16, "label": "PERSON_NAME"}, {"start": 30, "end": 36, "label": "CITY"}]}
+{"id": "syn_1096", "text": "send details to meera dot khan at outlook dot com", "entities": [{"start": 16, "end": 49, "label": "EMAIL"}]}
+{"id": "syn_1097", "text": "please charge my card 9786 1126 4769 6648", "entities": [{"start": 22, "end": 41, "label": "CREDIT_CARD"}]}
+{"id": "syn_1098", "text": "departure on 23 10 2020", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1099", "text": "my name is vikram verma", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "syn_1100", "text": "my phone is 1001805103", "entities": [{"start": 12, "end": 22, "label": "PHONE"}]}
+{"id": "syn_1101", "text": "card number 5127 7123 7863 8098", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1102", "text": "card number 3695 8406 7847 7366", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1103", "text": "traveling on 04 01 2022", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1104", "text": "card number 1690 9480 3649 8254", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1105", "text": "schedule for 11 09 2023", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1106", "text": "the card is 8629 2617 4283 7650", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1107", "text": "traveling on 12 02 2020", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1108", "text": "i live in chennai near whitefield", "entities": [{"start": 10, "end": 17, "label": "CITY"}, {"start": 23, "end": 33, "label": "LOCATION"}]}
+{"id": "syn_1109", "text": "date of birth 18 11 2020", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "syn_1110", "text": "please charge my card 3046 2940 3322 0429", "entities": [{"start": 22, "end": 41, "label": "CREDIT_CARD"}]}
+{"id": "syn_1111", "text": "traveling to surat on 11 09 2022", "entities": [{"start": 13, "end": 18, "label": "CITY"}, {"start": 22, "end": 32, "label": "DATE"}]}
+{"id": "syn_1112", "text": "credit card is 4932 8361 7982 5278", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "syn_1113", "text": "email id is arun dot verma at outlook dot com", "entities": [{"start": 12, "end": 45, "label": "EMAIL"}]}
+{"id": "syn_1114", "text": "meeting on 15 03 2024 at airport", "entities": [{"start": 11, "end": 21, "label": "DATE"}, {"start": 25, "end": 32, "label": "LOCATION"}]}
+{"id": "syn_1115", "text": "credit card is 8140 0326 6657 8185", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "syn_1116", "text": "my card number is 6969 9806 9319 2443", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "syn_1117", "text": "credit card is 4127 6460 9683 2799", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "syn_1118", "text": "this is sneha verma from surat", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 25, "end": 30, "label": "CITY"}]}
+{"id": "syn_1119", "text": "the card is 8574 9846 0664 5560", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1120", "text": "pay using card 2625 2953 3084 0544 expiry 03 12 2020", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}, {"start": 42, "end": 52, "label": "DATE"}]}
+{"id": "syn_1121", "text": "schedule for 29 07 2020", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1122", "text": "my phone is four nine eight two zero six nine eight four eight", "entities": [{"start": 12, "end": 62, "label": "PHONE"}]}
+{"id": "syn_1123", "text": "departure on 30 09 2020", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1124", "text": "departure on 04 11 2021", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1125", "text": "departure on 04 10 2021", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1126", "text": "card number 3960 3050 0095 2073", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1127", "text": "card number 8779 8554 7822 7596", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1128", "text": "date of birth 16 12 2025", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "syn_1129", "text": "schedule for 10 12 2021", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1130", "text": "i live in kolkata near whitefield", "entities": [{"start": 10, "end": 17, "label": "CITY"}, {"start": 23, "end": 33, "label": "LOCATION"}]}
+{"id": "syn_1131", "text": "i will travel on 12 11 2025", "entities": [{"start": 17, "end": 27, "label": "DATE"}]}
+{"id": "syn_1132", "text": "my card number is 1571 2767 2002 6567", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "syn_1133", "text": "email id is john dot reddy at gmail dot com", "entities": [{"start": 12, "end": 43, "label": "EMAIL"}]}
+{"id": "syn_1134", "text": "please charge my card 3223 6939 0672 6893", "entities": [{"start": 22, "end": 41, "label": "CREDIT_CARD"}]}
+{"id": "syn_1135", "text": "please charge my card 0679 2997 3979 2271", "entities": [{"start": 22, "end": 41, "label": "CREDIT_CARD"}]}
+{"id": "syn_1136", "text": "card number 5685 7321 7154 8707", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1137", "text": "i live in delhi near connaught place", "entities": [{"start": 10, "end": 15, "label": "CITY"}, {"start": 21, "end": 36, "label": "LOCATION"}]}
+{"id": "syn_1138", "text": "my phone is 9540700152", "entities": [{"start": 12, "end": 22, "label": "PHONE"}]}
+{"id": "syn_1139", "text": "my phone is 1462813270", "entities": [{"start": 12, "end": 22, "label": "PHONE"}]}
+{"id": "syn_1140", "text": "traveling on 21 11 2021", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1141", "text": "the card is 4059 9568 1465 5539", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1142", "text": "schedule for 22 11 2023", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1143", "text": "contact me at 9190860648", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "syn_1144", "text": "traveling on 30 06 2022", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1145", "text": "i am anita sharma calling from delhi", "entities": [{"start": 5, "end": 17, "label": "PERSON_NAME"}, {"start": 31, "end": 36, "label": "CITY"}]}
+{"id": "syn_1146", "text": "pay using card 5402 9326 0011 5368 expiry 20 08 2023", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}, {"start": 42, "end": 52, "label": "DATE"}]}
+{"id": "syn_1147", "text": "pay using card 5589 9796 1910 2667 expiry 30 04 2022", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}, {"start": 42, "end": 52, "label": "DATE"}]}
+{"id": "syn_1148", "text": "traveling on 21 06 2021", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1149", "text": "departure on 04 07 2025", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1150", "text": "email id is meera dot rao at outlook dot com", "entities": [{"start": 12, "end": 44, "label": "EMAIL"}]}
+{"id": "syn_1151", "text": "my card number is 0090 3189 6348 3695", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "syn_1152", "text": "meeting on 17 09 2023 at connaught place", "entities": [{"start": 11, "end": 21, "label": "DATE"}, {"start": 25, "end": 40, "label": "LOCATION"}]}
+{"id": "syn_1153", "text": "i live in jaipur near whitefield", "entities": [{"start": 10, "end": 16, "label": "CITY"}, {"start": 22, "end": 32, "label": "LOCATION"}]}
+{"id": "syn_1154", "text": "my number is 2516495134 and email is john dot khan at yahoo dot com", "entities": [{"start": 13, "end": 23, "label": "PHONE"}, {"start": 37, "end": 67, "label": "EMAIL"}]}
+{"id": "syn_1155", "text": "schedule for 14 10 2024", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1156", "text": "my number is two one three one zero seven one zero eight four and email is sneha dot kumar at yahoo dot com", "entities": [{"start": 13, "end": 61, "label": "PHONE"}, {"start": 75, "end": 107, "label": "EMAIL"}]}
+{"id": "syn_1157", "text": "pay using card 2642 4307 4393 8391 expiry 12 07 2020", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}, {"start": 42, "end": 52, "label": "DATE"}]}
+{"id": "syn_1158", "text": "credit card is 4614 2914 0632 0299", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "syn_1159", "text": "schedule for 14 05 2022", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1160", "text": "date of birth 07 12 2022", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "syn_1161", "text": "traveling on 26 11 2024", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1162", "text": "meeting on 27 07 2021 at central station", "entities": [{"start": 11, "end": 21, "label": "DATE"}, {"start": 25, "end": 40, "label": "LOCATION"}]}
+{"id": "syn_1163", "text": "this is doe kumar from mumbai", "entities": [{"start": 8, "end": 17, "label": "PERSON_NAME"}, {"start": 23, "end": 29, "label": "CITY"}]}
+{"id": "syn_1164", "text": "i will travel on 09 03 2024", "entities": [{"start": 17, "end": 27, "label": "DATE"}]}
+{"id": "syn_1165", "text": "meeting on 12 07 2021 at whitefield", "entities": [{"start": 11, "end": 21, "label": "DATE"}, {"start": 25, "end": 35, "label": "LOCATION"}]}
+{"id": "syn_1166", "text": "contact me at zero four eight four six nine one six eight one", "entities": [{"start": 14, "end": 61, "label": "PHONE"}]}
+{"id": "syn_1167", "text": "i live in bangalore near indira nagar", "entities": [{"start": 10, "end": 19, "label": "CITY"}, {"start": 25, "end": 37, "label": "LOCATION"}]}
+{"id": "syn_1168", "text": "schedule for 20 10 2020", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1169", "text": "email id is john dot iyer at hotmail dot com", "entities": [{"start": 12, "end": 44, "label": "EMAIL"}]}
+{"id": "syn_1170", "text": "pay using card 3046 6333 4109 0409 expiry 06 10 2025", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}, {"start": 42, "end": 52, "label": "DATE"}]}
+{"id": "syn_1171", "text": "date of birth 09 04 2024", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "syn_1172", "text": "departure on 07 02 2024", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1173", "text": "my card number is 4011 0681 3798 0383", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "syn_1174", "text": "traveling to jaipur on 08 06 2023", "entities": [{"start": 13, "end": 19, "label": "CITY"}, {"start": 23, "end": 33, "label": "DATE"}]}
+{"id": "syn_1175", "text": "contact me at 9426115132", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "syn_1176", "text": "i will travel on 26 01 2022", "entities": [{"start": 17, "end": 27, "label": "DATE"}]}
+{"id": "syn_1177", "text": "the card is 9970 8703 5402 0970", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}
+{"id": "syn_1178", "text": "i am meera reddy calling from delhi", "entities": [{"start": 5, "end": 16, "label": "PERSON_NAME"}, {"start": 30, "end": 35, "label": "CITY"}]}
+{"id": "syn_1179", "text": "departure on 22 11 2021", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1180", "text": "schedule for 07 06 2023", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1181", "text": "departure on 06 08 2022", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1182", "text": "my number is seven nine four zero nine five eight four eight nine and email is anita dot gupta at outlook dot com", "entities": [{"start": 13, "end": 65, "label": "PHONE"}, {"start": 79, "end": 113, "label": "EMAIL"}]}
+{"id": "syn_1183", "text": "my card number is 8069 2302 9639 8187", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "syn_1184", "text": "schedule for 16 10 2021", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "syn_1185", "text": "this is doe malik from surat", "entities": [{"start": 8, "end": 17, "label": "PERSON_NAME"}, {"start": 23, "end": 28, "label": "CITY"}]}
+{"id": "syn_1186", "text": "date of birth 19 04 2024", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "syn_1187", "text": "my number is four one six seven one zero eight nine eight zero and email is priya dot khan at outlook dot com", "entities": [{"start": 13, "end": 62, "label": "PHONE"}, {"start": 76, "end": 109, "label": "EMAIL"}]}
+{"id": "syn_1188", "text": "my phone is 3748702656", "entities": [{"start": 12, "end": 22, "label": "PHONE"}]}
+{"id": "syn_1189", "text": "pay using card 7710 5898 5990 7830 expiry 26 04 2022", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}, {"start": 42, "end": 52, "label": "DATE"}]}
+{"id": "syn_1190", "text": "my phone is 3560823637", "entities": [{"start": 12, "end": 22, "label": "PHONE"}]}
+{"id": "syn_1191", "text": "date of birth 29 05 2025", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "syn_1192", "text": "my phone is 8224702292", "entities": [{"start": 12, "end": 22, "label": "PHONE"}]}
+{"id": "syn_1193", "text": "my number is three nine seven three six zero two five eight zero and email is ramesh dot nair at gmail dot com", "entities": [{"start": 13, "end": 64, "label": "PHONE"}, {"start": 78, "end": 110, "label": "EMAIL"}]}
+{"id": "syn_1194", "text": "my name is anita reddy", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "syn_1195", "text": "i will travel on 18 09 2023", "entities": [{"start": 17, "end": 27, "label": "DATE"}]}
+{"id": "syn_1196", "text": "my name is arun patel", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "syn_1197", "text": "traveling to surat on 18 03 2025", "entities": [{"start": 13, "end": 18, "label": "CITY"}, {"start": 22, "end": 32, "label": "DATE"}]}
+{"id": "syn_1198", "text": "credit card is 6790 0726 0740 9813", "entities": [{"start": 15, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "syn_1199", "text": "card number 2368 5529 9074 8799", "entities": [{"start": 12, "end": 31, "label": "CREDIT_CARD"}]}

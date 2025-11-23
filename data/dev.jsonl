@@ -1,0 +1,2 @@
+{"id": "utt_0101", "text": "email id is priyanka dot verma at outlook dot com and card number is 5555 5555 5555 4444", "entities": [{"start": 12, "end": 49, "label": "EMAIL"}, {"start": 69, "end": 88, "label": "CREDIT_CARD"}]}
+{"id": "utt_0102", "text": "my number is 9876543210 i am calling from mumbai and i will travel on 01 02 2024", "entities": [{"start": 13, "end": 23, "label": "PHONE"}, {"start": 42, "end": 48, "label": "CITY"}, {"start": 70, "end": 80, "label": "DATE"}]}
